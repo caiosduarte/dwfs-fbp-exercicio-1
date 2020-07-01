@@ -1,0 +1,13 @@
+{
+    "autoload": {
+        "psr-4": {
+            "App\\": "src"
+        }
+    },
+    "require": {
+        "symfony/console": "^5.1",
+        "symfony/http-client": ">=1.0",
+        "symfony/dom-crawler": ">=1.0",
+        "symfony/css-selector": ">=1.0"
+    }
+}
