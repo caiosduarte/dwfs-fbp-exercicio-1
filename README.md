@@ -3,4 +3,5 @@
 Para executar:
 
 $ compose install
+
 $ php app.php search <termo_a_ser_pesquisado>
